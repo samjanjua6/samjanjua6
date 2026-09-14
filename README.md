@@ -27,9 +27,9 @@
 ## About me
 
 I’m a developer focused on building practical products across:
-- backend APIs and integrations
+- Backend APIs and integrations
 - AI-powered assistants and research tools
-- web applications and coursework projects
+- Web applications and coursework projects
 
 I like turning ideas into usable software with clean architecture and a polished user experience.
 
@@ -39,48 +39,34 @@ I like turning ideas into usable software with clean architecture and a polished
   <img src="https://skillicons.dev/icons?i=python,fastapi,react,js,ts,nodejs,html,css,tailwind,vite,docker,postgres,git,github,vscode,linux" />
 </p>
 
-## Skills grid
-
-<table align="center">
-  <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br/>Python</td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /><br/>FastAPI</td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br/>React</td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" /><br/>TypeScript</td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" /><br/>JavaScript</td>
-  </tr>
-  <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br/>HTML</td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br/>CSS</td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /><br/>Tailwind</td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" /><br/>Vite</td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br/>PostgreSQL</td>
-  </tr>
-  <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br/>Docker</td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br/>Git</td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br/>GitHub</td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br/>Linux</td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br/>VS Code</td>
-  </tr>
-</table>
-
 ## Featured projects
 
-<p align="center">
-  <a href="https://github.com/samjanjua6/DeepTrace">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samjanjua6&repo=DeepTrace&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/samjanjua6/Ai-Research-Assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samjanjua6&repo=Ai-Research-Assistant&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/samjanjua6/Library-Assistant-chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samjanjua6&repo=Library-Assistant-chatbot&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/samjanjua6/LectureSheet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samjanjua6&repo=LectureSheet&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+<table align="center" border="0">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/samjanjua6/DeepTrace">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=samjanjua6&repo=DeepTrace&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/samjanjua6/Ai-Research-Assistant">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=samjanjua6&repo=Ai-Research-Assistant&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/samjanjua6/Library-Assistant-chatbot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=samjanjua6&repo=Library-Assistant-chatbot&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/samjanjua6/LectureSheet">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=samjanjua6&repo=LectureSheet&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## More repositories
 

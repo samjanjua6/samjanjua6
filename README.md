@@ -41,29 +41,41 @@ I like turning ideas into usable software with clean architecture and a polished
 
 ## Featured projects
 
-<table align="center" border="0">
+<table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/samjanjua6/DeepTrace">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=samjanjua6&repo=DeepTrace&theme=tokyonight&hide_border=true" alt="DeepTrace" />
-      </a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/samjanjua6/DeepTrace">DeepTrace</a></h3>
+      <p>Digital forensics tool to inspect documents and detect pixel manipulation or tampering.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square" />
+      </p>
     </td>
-    <td align="center">
-      <a href="https://github.com/samjanjua6/Ai-Research-Assistant">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=samjanjua6&repo=Ai-Research-Assistant&theme=tokyonight&hide_border=true" alt="Ai-Research-Assistant" />
-      </a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/samjanjua6/Ai-Research-Assistant">Ai-Research-Assistant</a></h3>
+      <p>Intelligent assistant workflow tailored for automated research, summarization, and query handling.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI-7B2CBF?style=flat-square" />
+      </p>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://github.com/samjanjua6/Library-Assistant-chatbot">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=samjanjua6&repo=Library-Assistant-chatbot&theme=tokyonight&hide_border=true" alt="Library-Assistant-chatbot" />
-      </a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/samjanjua6/Library-Assistant-chatbot">Library-Assistant-chatbot</a></h3>
+      <p>Conversational bot designed to streamline catalog searching and library interactions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
     </td>
-    <td align="center">
-      <a href="https://github.com/samjanjua6/LectureSheet">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=samjanjua6&repo=LectureSheet&theme=tokyonight&hide_border=true" alt="LectureSheet" />
-      </a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/samjanjua6/LectureSheet">LectureSheet</a></h3>
+      <p>Academic resource utility to manage, parse, and organize student lecture materials.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Full%20Stack-0284C7?style=flat-square" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
     </td>
   </tr>
 </table>
@@ -80,12 +92,11 @@ I like turning ideas into usable software with clean architecture and a polished
 ## GitHub stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=samjanjua6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samjanjua6&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samjanjua6&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=samjanjua6&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=samjanjua6&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 ## Currently exploring

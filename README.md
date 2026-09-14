@@ -1,61 +1,118 @@
-# Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1d4ed8,100:06b6d4&text=Shaheer%20Ul%20Hassan&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Building%20web%20apps%2C%20APIs%2C%20and%20AI%20experiences&descAlignY=58&descSize=16" alt="header" />
+</p>
 
-<!--
-**samjanjua6/samjanjua6** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<p align="center">
+  <a href="https://github.com/samjanjua6?tab=followers"><img src="https://img.shields.io/github/followers/samjanjua6?label=Followers&style=for-the-badge&logo=github&color=0f172a" alt="followers" /></a>
+  <a href="https://github.com/samjanjua6?tab=repositories"><img src="https://img.shields.io/github/repo-size/samjanjua6/samjanjua6?label=Profile%20Repo&style=for-the-badge&logo=github&color=0f172a" alt="repo size" /></a>
+  <img src="https://komarev.com/ghpvc/?username=samjanjua6&style=for-the-badge&color=0f172a" alt="profile views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/samjanjua6"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:samjanjua6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://x.com/" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/samjanjua6?tab=stars"><img src="https://img.shields.io/github/stars/samjanjua6?style=for-the-badge&logo=github&color=111827" alt="stars" /></a>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full%20Stack-0ea5e9?style=for-the-badge" alt="focus" />
+  <img src="https://img.shields.io/badge/Code-Python%20%7C%20FastAPI%20%7C%20React%20%7C%20LangGraph-22c55e?style=for-the-badge" alt="stack" />
+</p>
+
+---
 
 ## About me
 
-I build projects across web development, backend APIs, and AI-powered applications.
+I’m a developer focused on building practical products across:
+- backend APIs and integrations
+- AI-powered assistants and research tools
+- web applications and coursework projects
+
+I like turning ideas into usable software with clean architecture and a polished user experience.
+
+## Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,js,ts,nodejs,html,css,tailwind,vite,docker,postgres,git,github,vscode,linux" />
+</p>
+
+## Tools & technologies
+
+<table align="center">
+  <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br/>Python</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /><br/>FastAPI</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br/>React</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" /><br/>TypeScript</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" /><br/>JavaScript</td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br/>HTML</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br/>CSS</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /><br/>Tailwind</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" /><br/>Vite</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br/>PostgreSQL</td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br/>Docker</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br/>Git</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br/>GitHub</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br/>Linux</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br/>VS Code</td>
+  </tr>
+</table>
 
 ## Featured projects
 
-- **DeepTrace** — Deterministic document forensics & financial ledger audit API. Upload a document, detect manipulation, verify math, and show the evidence.
-- **Ai-Research-Assistant** — An autonomous AI research assistant that iteratively searches the web, synthesizes information, and generates cited reports using LangGraph, FastAPI, and React.
-- **Library-Assistant-chatbot** — An automated library management chatbot AI for borrowing and returning books.
-- **zylo-fast-api** — FastAPI-based project.
-- **ai-chatbot** — An AI chatbot project under development.
-- **LectureSheet** — A lecture record website for UOG.
-- **personal-diary** — Personal Diary Management System.
-- **samjanjua6.github.io** — My GitHub Pages site.
+<p align="center">
+  <a href="https://github.com/samjanjua6/DeepTrace">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samjanjua6&repo=DeepTrace&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/samjanjua6/Ai-Research-Assistant">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samjanjua6&repo=Ai-Research-Assistant&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/samjanjua6/Library-Assistant-chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samjanjua6&repo=Library-Assistant-chatbot&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/samjanjua6/lecturesheet">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samjanjua6&repo=LectureSheet&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
-## Other repositories
+## More repositories
 
-I also maintain a range of practice, coursework, and experimental repositories, including:
+<p align="center">
+  <a href="https://github.com/samjanjua6/zylo-fast-api"><img src="https://img.shields.io/badge/zylo--fast--api-0f172a?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
+  <a href="https://github.com/samjanjua6/ai-chatbot"><img src="https://img.shields.io/badge/ai--chatbot-0f172a?style=for-the-badge&logo=openai&logoColor=white" /></a>
+  <a href="https://github.com/samjanjua6/personal-diary"><img src="https://img.shields.io/badge/personal--diary-0f172a?style=for-the-badge&logo=notion&logoColor=white" /></a>
+  <a href="https://github.com/samjanjua6/samjanjua6.github.io"><img src="https://img.shields.io/badge/GitHub%20Pages-0f172a?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+</p>
 
-- `Haji-Cafe`
-- `psycopg-asyncpg`
-- `fast-api`
-- `github-practice`
-- `new-project`
-- `web-project`
-- `class-one`
-- `vite-repo`
-- `web-assignment`
-- `new-repository`
-- `New-rr`
-- `test-repo`
-- `Routing`
-- `coursera-assignment`
-- `Assignment-3`
-- `input-simple-2D-array`
-- `min-max-in-array`
-- `Calculator-UOG`
-- `CPP-repos-UOG`
-- `ngrok-rdp`
-- `nomane`
-- `first-repo`
+## GitHub stats
 
-## Tech interests
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=samjanjua6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samjanjua6&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-- Python
-- FastAPI
-- React
-- LangGraph
-- AI assistants
-- Web applications
-- University projects and practice work
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=samjanjua6&theme=tokyonight&hide_border=true" />
+</p>
 
-## Contact
+## Currently exploring
 
-Feel free to connect with me through GitHub.
+- AI assistants and research workflows
+- Backend systems with FastAPI
+- Clean UI/UX for web applications
+- Productive developer tooling
+
+## Let’s connect
+
+<p align="center">
+  <a href="https://github.com/samjanjua6"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:samjanjua6@gmail.com"><img src="https://img.shields.io/badge/Email-Send%20a%20message-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>

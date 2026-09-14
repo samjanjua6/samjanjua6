@@ -4,22 +4,22 @@
 
 <p align="center">
   <a href="https://github.com/samjanjua6?tab=followers"><img src="https://img.shields.io/github/followers/samjanjua6?label=Followers&style=for-the-badge&logo=github&color=0f172a" alt="followers" /></a>
-  <a href="https://github.com/samjanjua6?tab=repositories"><img src="https://img.shields.io/github/repo-size/samjanjua6/samjanjua6?label=Profile%20Repo&style=for-the-badge&logo=github&color=0f172a" alt="repo size" /></a>
+  <a href="https://github.com/samjanjua6?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-25+-0f172a?style=for-the-badge&logo=github" alt="public repos" /></a>
   <img src="https://komarev.com/ghpvc/?username=samjanjua6&style=for-the-badge&color=0f172a" alt="profile views" />
 </p>
 
 <p align="center">
   <a href="https://github.com/samjanjua6"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:samjanjua6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/samjanjua6?tab=stars"><img src="https://img.shields.io/github/stars/samjanjua6?style=for-the-badge&logo=github&color=111827" alt="stars" /></a>
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full%20Stack-0ea5e9?style=for-the-badge" alt="focus" />
-  <img src="https://img.shields.io/badge/Code-Python%20%7C%20FastAPI%20%7C%20React%20%7C%20LangGraph-22c55e?style=for-the-badge" alt="stack" />
+  <img src="https://img.shields.io/badge/Primary%20Languages-Python%20%7C%20JavaScript%20%7C%20TypeScript-22c55e?style=for-the-badge" alt="languages" />
+  <img src="https://img.shields.io/badge/Frameworks-FastAPI%20%7C%20React%20%7C%20Vite-8b5cf6?style=for-the-badge" alt="frameworks" />
 </p>
 
 ---
@@ -39,7 +39,7 @@ I like turning ideas into usable software with clean architecture and a polished
   <img src="https://skillicons.dev/icons?i=python,fastapi,react,js,ts,nodejs,html,css,tailwind,vite,docker,postgres,git,github,vscode,linux" />
 </p>
 
-## Tools & technologies
+## Skills grid
 
 <table align="center">
   <tr>
@@ -77,7 +77,7 @@ I like turning ideas into usable software with clean architecture and a polished
   <a href="https://github.com/samjanjua6/Library-Assistant-chatbot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=samjanjua6&repo=Library-Assistant-chatbot&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/samjanjua6/lecturesheet">
+  <a href="https://github.com/samjanjua6/LectureSheet">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=samjanjua6&repo=LectureSheet&theme=tokyonight&hide_border=true" />
   </a>
 </p>

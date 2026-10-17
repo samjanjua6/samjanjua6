@@ -181,9 +181,10 @@ I am an **AI Systems Engineer & Full-Stack AI Developer** specializing in **auto
 
 ### 📊 GitHub Activity & Metrics
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samjanjua6&theme=tokyo-night&hide_border=true&area=true&color=C1A3FF" width="100%" alt="Shaheer's GitHub Activity Graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samjanjua6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09080D&title_color=C1A3FF&icon_color=8F63DD&text_color=F4F1FA" alt="Shaheer's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samjanjua6&layout=compact&hide_border=true&bg_color=09080D&title_color=C1A3FF&text_color=F4F1FA" alt="Shaheer's Top Languages" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=samjanjua6&theme=tokyonight&hide_border=true&ring=C1A3FF&fire=8F63DD&currStreakNum=F4F1FA" alt="Shaheer's Streak Stats" />

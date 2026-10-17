@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 320" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#09080D"/>
+      <stop offset="50%" stop-color="#120D1F"/>
+      <stop offset="100%" stop-color="#09080D"/>
+    </linearGradient>
+
+    <!-- Title Gradient -->
+    <linearGradient id="titleGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="45%" stop-color="#F4F1FA"/>
+      <stop offset="85%" stop-color="#D9C3FF"/>
+      <stop offset="100%" stop-color="#C1A3FF"/>
+    </linearGradient>
+
+    <!-- Subtitle Gradient -->
+    <linearGradient id="subGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C1A3FF"/>
+      <stop offset="100%" stop-color="#8F63DD"/>
+    </linearGradient>
+
+    <!-- Card Border Gradient -->
+    <linearGradient id="borderGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#C1A3FF" stop-opacity="0.45"/>
+      <stop offset="50%" stop-color="#8F63DD" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#C1A3FF" stop-opacity="0.45"/>
+    </linearGradient>
+
+    <!-- Monogram Sharp Linear Gradient -->
+    <linearGradient id="monoLinear" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="25%" stop-color="#C1A3FF"/>
+      <stop offset="60%" stop-color="#8F63DD"/>
+      <stop offset="100%" stop-color="#552B9C"/>
+    </linearGradient>
+
+    <!-- Subtle Technical Grid Pattern -->
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#FFFFFF" stroke-opacity="0.03" stroke-width="1"/>
+      <circle cx="0" cy="0" r="0.75" fill="#C1A3FF" fill-opacity="0.2"/>
+    </pattern>
+  </defs>
+
+  <style>
+    .mono-font { font-family: 'IBM Plex Mono', 'SF Mono', Consolas, 'Courier New', monospace; }
+    .sans-font { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+  </style>
+
+  <!-- Base Rounded Container with Obsidian Theme -->
+  <rect width="1100" height="320" rx="20" fill="url(#bgGradient)"/>
+  <rect width="1100" height="320" rx="20" fill="url(#grid)"/>
+  <rect width="1098" height="318" x="1" y="1" rx="19" fill="none" stroke="url(#borderGradient)" stroke-width="1.5"/>
+
+  <!-- Atmospheric Glow Radiations -->
+  <circle cx="120" cy="60" r="160" fill="#8F63DD" opacity="0.16"/>
+  <circle cx="950" cy="140" r="220" fill="#C1A3FF" opacity="0.12"/>
+  <circle cx="500" cy="280" r="200" fill="#58299C" opacity="0.14"/>
+
+  <!-- Right Side: Iconic Monogram Emblem -->
+  <g transform="translate(770, 42) scale(0.44)" opacity="0.92">
+    <!-- Ambient Orbital Aura Glows -->
+    <circle cx="370" cy="265" r="220" fill="#8F63DD" opacity="0.18"/>
+    
+    <!-- Monogram Solid Glyph -->
+    <path d="M539.393 76H275.892L200.606 151.286V264.215L275.892 339.501H426.464V377.144H200.606V452.43H464.107L539.393 377.144V264.215L464.107 188.929H313.535V151.286H539.393V76Z" 
+          fill="url(#monoLinear)"/>
+    
+    <!-- Orbital Ring Accent -->
+    <path d="M339.251 186.899C421.818 148.397 500.577 122.166 561.159 110.877C591.453 105.231 617.18 103.326 636.556 105.479C655.959 107.635 668.857 113.843 673.723 124.277C678.588 134.712 675.053 148.582 664.233 164.832C653.427 181.059 635.431 199.542 611.633 219.12C564.044 258.272 493.325 301.744 410.757 340.245C328.19 378.747 249.432 404.978 188.85 416.268C158.556 421.913 132.829 423.818 113.452 421.665C94.0489 419.509 81.1511 413.301 76.2854 402.867C71.4198 392.433 74.9551 378.562 85.7757 362.312C96.5812 346.085 114.578 327.602 138.375 308.024C185.964 268.872 256.683 225.401 339.251 186.899Z" 
+          stroke="#C1A3FF" stroke-width="1.8" stroke-opacity="0.6"/>
+  </g>
+
+  <!-- Left Content Layout -->
+  <!-- 1. System Telemetry Status Pill -->
+  <g transform="translate(60, 48)">
+    <rect width="324" height="28" rx="14" fill="#1C122F" stroke="#8F63DD" stroke-width="1" stroke-opacity="0.5"/>
+    <circle cx="16" cy="14" r="4.5" fill="#C1A3FF"/>
+    <text x="30" y="18" fill="#C1A3FF" class="mono-font" font-size="11" letter-spacing="1.2">AI SYSTEMS: ONLINE // LAT: 33.68° N</text>
+  </g>
+
+  <!-- 2. Primary Headline Name -->
+  <text x="60" y="132" fill="url(#titleGradient)" class="sans-font" font-size="46" font-weight="700" letter-spacing="-0.8">
+    Shaheer Ul Hassan
+  </text>
+
+  <!-- 3. Role & Specialization -->
+  <text x="60" y="168" fill="url(#subGradient)" class="sans-font" font-size="20" font-weight="500" letter-spacing="-0.2">
+    AI Systems Engineer &amp; Full-Stack AI Developer
+  </text>
+
+  <!-- 4. Descriptive Subtitle / Mission -->
+  <text x="60" y="202" fill="#A19AAE" class="sans-font" font-size="14.5" font-weight="400">
+    Architecting autonomous multi-agent graphs (LangGraph), production RAG architectures, and real-time Voice AI.
+  </text>
+
+  <!-- 5. Technical Focus Badges / Tags -->
+  <g transform="translate(60, 236)">
+    <!-- Tag 1: LangGraph -->
+    <g transform="translate(0, 0)">
+      <rect width="182" height="32" rx="8" fill="#161124" stroke="#C1A3FF" stroke-width="1" stroke-opacity="0.3"/>
+      <circle cx="14" cy="16" r="3.5" fill="#C1A3FF"/>
+      <text x="26" y="20" fill="#F4F1FA" class="mono-font" font-size="11" font-weight="500">Autonomous Agents</text>
+    </g>
+
+    <!-- Tag 2: Production RAG -->
+    <g transform="translate(194, 0)">
+      <rect width="158" height="32" rx="8" fill="#161124" stroke="#8F63DD" stroke-width="1" stroke-opacity="0.3"/>
+      <circle cx="14" cy="16" r="3.5" fill="#8F63DD"/>
+      <text x="26" y="20" fill="#F4F1FA" class="mono-font" font-size="11" font-weight="500">Production RAG</text>
+    </g>
+
+    <!-- Tag 3: Voice AI -->
+    <g transform="translate(364, 0)">
+      <rect width="168" height="32" rx="8" fill="#161124" stroke="#C1A3FF" stroke-width="1" stroke-opacity="0.3"/>
+      <circle cx="14" cy="16" r="3.5" fill="#C1A3FF"/>
+      <text x="26" y="20" fill="#F4F1FA" class="mono-font" font-size="11" font-weight="500">Real-Time Voice AI</text>
+    </g>
+
+    <!-- Tag 4: Computer Vision -->
+    <g transform="translate(544, 0)">
+      <rect width="164" height="32" rx="8" fill="#161124" stroke="#8F63DD" stroke-width="1" stroke-opacity="0.3"/>
+      <circle cx="14" cy="16" r="3.5" fill="#8F63DD"/>
+      <text x="26" y="20" fill="#F4F1FA" class="mono-font" font-size="11" font-weight="500">Computer Vision</text>
+    </g>
+  </g>
+</svg>

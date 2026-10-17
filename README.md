@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Header Banner (Obsidian & Lilac Theme Matching shaheerulhassan.com) -->
+  <!-- Header Banner (Self-Hosted Bespoke Obsidian & Lilac SVG matching shaheerulhassan.com) -->
   <a href="https://shaheerulhassan.com">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:09080D,40:1C122F,75:5D3E9E,100:C1A3FF&text=Shaheer%20Ul%20Hassan&fontColor=F4F1FA&fontSize=42&fontAlignY=36&animation=fadeIn&desc=AI%20Engineer%20%26%20Systems%20Builder%20%7C%20LangGraph%20%E2%80%A2%20RAG%20%E2%80%A2%20Voice%20AI&descAlignY=58&descSize=16&descColor=D9C3FF" width="100%" alt="Shaheer Ul Hassan — AI Engineer Header" />
+    <img src="https://raw.githubusercontent.com/samjanjua6/samjanjua6/main/header.svg" width="100%" alt="Shaheer Ul Hassan — AI Systems Engineer" />
   </a>
 
   <!-- Primary Portfolio Backlink & Socials Strip -->

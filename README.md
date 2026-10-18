@@ -81,11 +81,12 @@ I am an **AI Systems Engineer & Full-Stack AI Developer** specializing in **auto
       <p>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
         <img src="https://img.shields.io/badge/LangGraph-1C122F?style=flat-square&color=C1A3FF&labelColor=14101E" />
-        <img src="https://img.shields.io/badge/PyMuPDF-FF6F00?style=flat-square" />
+        <a href="https://pypi.org/project/deeptrace-ela/"><img src="https://img.shields.io/pypi/v/deeptrace-ela?style=flat-square&color=C1A3FF&labelColor=14101E&logo=pypi&logoColor=white" alt="PyPI Package" /></a>
         <img src="https://img.shields.io/badge/Precision-100.0%25_Math-22C55E?style=flat-square" />
       </p>
       <p>
         📂 <a href="https://github.com/samjanjua6/DeepTrace"><strong>Source Code</strong></a> &nbsp;|&nbsp; 
+        📦 <a href="https://pypi.org/project/deeptrace-ela/"><strong>PyPI Package</strong></a> &nbsp;|&nbsp; 
         📖 <a href="https://shaheerulhassan.com#projects"><strong>Interactive Case Study</strong></a>
       </p>
     </td>

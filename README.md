@@ -70,9 +70,8 @@ I am an **AI Systems Engineer & Full-Stack AI Developer** specializing in **auto
         <img src="https://img.shields.io/badge/Corpus-200M+_DOIs-8F63DD?style=flat-square" />
       </p>
       <p>
-        🔗 <a href="https://research.mychatbot.codes"><strong>Live Demo</strong></a> &nbsp;|&nbsp; 
         📂 <a href="https://github.com/samjanjua6/Ai-Research-Assistant"><strong>Source Code</strong></a> &nbsp;|&nbsp; 
-        📖 <a href="https://shaheerulhassan.com#projects"><strong>Case Study</strong></a>
+        📖 <a href="https://shaheerulhassan.com#projects"><strong>Interactive Case Study</strong></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -86,9 +85,8 @@ I am an **AI Systems Engineer & Full-Stack AI Developer** specializing in **auto
         <img src="https://img.shields.io/badge/Precision-100.0%25_Math-22C55E?style=flat-square" />
       </p>
       <p>
-        🔗 <a href="https://deeptrace.mychatbot.codes"><strong>Live Demo</strong></a> &nbsp;|&nbsp; 
         📂 <a href="https://github.com/samjanjua6/DeepTrace"><strong>Source Code</strong></a> &nbsp;|&nbsp; 
-        📖 <a href="https://shaheerulhassan.com#projects"><strong>Case Study</strong></a>
+        📖 <a href="https://shaheerulhassan.com#projects"><strong>Interactive Case Study</strong></a>
       </p>
     </td>
   </tr>
@@ -138,9 +136,8 @@ I am an **AI Systems Engineer & Full-Stack AI Developer** specializing in **auto
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       </p>
       <p>
-        🔗 <a href="https://mychatbot.codes"><strong>Live Demo</strong></a> &nbsp;|&nbsp; 
         📂 <a href="https://github.com/samjanjua6/Library-Assistant-chatbot"><strong>Source Code</strong></a> &nbsp;|&nbsp; 
-        📖 <a href="https://shaheerulhassan.com#projects"><strong>Case Study</strong></a>
+        📖 <a href="https://shaheerulhassan.com#projects"><strong>Interactive Case Study</strong></a>
       </p>
     </td>
     <td width="50%" valign="top">
